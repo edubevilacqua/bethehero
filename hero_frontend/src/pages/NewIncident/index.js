@@ -30,7 +30,7 @@ export default function NewIncident(){
           Authorization: ongId
         }
       });
-      history.push('/profile');
+      history.push('/bethehero/profile');
     } catch(err) {
       alert('Não foi possível adicionar o caso.');
     }
@@ -44,7 +44,7 @@ export default function NewIncident(){
 
           <h1>Cadastrar novo caso</h1>
           <p>Descreva o caso detalhadamente para encontrar um herói para resolvê-lo.</p>
-          <Link className="back-link" to="/profile">
+          <Link className="back-link" to="/bethehero/profile">
             <FiArrowLeft size={18} color="#E02041"/>
             Voltar ao perfil
           </Link>

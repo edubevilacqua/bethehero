@@ -35,7 +35,7 @@ export default function Logon() {
             onChange={e => setId(e.target.value)}
           />
           <button type="submit" className="button">Entrar</button>
-          <Link className="back-link" to="/register">
+          <Link className="back-link" to="/bethehero/register">
             <FiLogIn size={16} color="#E02041"/>
             Não tenho cadastro
           </Link>
