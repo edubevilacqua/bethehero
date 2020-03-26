@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7b9c1ba86aff2679269d568e1ab021f",
+    "revision": "733857a95a157281c54bf53e83416475",
     "url": "/bethehero/index.html"
   },
   {
-    "revision": "4d700eb7a233a4b613f5",
+    "revision": "01156b15dd15bdc6f3b0",
     "url": "/bethehero/static/css/main.37117ba0.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bethehero/static/js/2.51b7343b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4d700eb7a233a4b613f5",
-    "url": "/bethehero/static/js/main.225a0d79.chunk.js"
+    "revision": "01156b15dd15bdc6f3b0",
+    "url": "/bethehero/static/js/main.2ef06353.chunk.js"
   },
   {
     "revision": "a358e7b8f12f439d6fbf",

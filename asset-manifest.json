@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/bethehero/static/css/main.37117ba0.chunk.css",
-    "main.js": "/bethehero/static/js/main.225a0d79.chunk.js",
-    "main.js.map": "/bethehero/static/js/main.225a0d79.chunk.js.map",
+    "main.js": "/bethehero/static/js/main.2ef06353.chunk.js",
+    "main.js.map": "/bethehero/static/js/main.2ef06353.chunk.js.map",
     "runtime-main.js": "/bethehero/static/js/runtime-main.38734c10.js",
     "runtime-main.js.map": "/bethehero/static/js/runtime-main.38734c10.js.map",
     "static/js/2.51b7343b.chunk.js": "/bethehero/static/js/2.51b7343b.chunk.js",
     "static/js/2.51b7343b.chunk.js.map": "/bethehero/static/js/2.51b7343b.chunk.js.map",
     "index.html": "/bethehero/index.html",
-    "precache-manifest.ad6015cdb0ac80679dff4b5c310c5d0b.js": "/bethehero/precache-manifest.ad6015cdb0ac80679dff4b5c310c5d0b.js",
+    "precache-manifest.c5a173719404d2eb1c49ae81e2643f65.js": "/bethehero/precache-manifest.c5a173719404d2eb1c49ae81e2643f65.js",
     "service-worker.js": "/bethehero/service-worker.js",
     "static/css/main.37117ba0.chunk.css.map": "/bethehero/static/css/main.37117ba0.chunk.css.map",
     "static/js/2.51b7343b.chunk.js.LICENSE.txt": "/bethehero/static/js/2.51b7343b.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.38734c10.js",
     "static/js/2.51b7343b.chunk.js",
     "static/css/main.37117ba0.chunk.css",
-    "static/js/main.225a0d79.chunk.js"
+    "static/js/main.2ef06353.chunk.js"
   ]
 }
