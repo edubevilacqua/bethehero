@@ -2,9 +2,13 @@
   "name": "hero_backend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
+  "engines": {
+    "node": "12.x"
+  },
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js",
+    "test": "nodemon src/index.js"
   },
   "keywords": [],
   "author": "",
