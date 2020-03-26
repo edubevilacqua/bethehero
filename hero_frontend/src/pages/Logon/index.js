@@ -17,7 +17,7 @@ export default function Logon() {
       const res = await api.post('sessions', { id });
       localStorage.setItem('ongId', id);
       localStorage.setItem('ongName', res.data.name);
-      history.push("/profile")
+      history.push("/bethehero/profile")
     } catch(err) {
       alert('Não foi possível logar no sistema, tente novamente')
     }
